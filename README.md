@@ -17,7 +17,7 @@ This project is a front-end clone of the Amazon homepage built using HTML and CS
 
 ## 🛠️ Technologies Used
 - HTML5
-- CSS3
+- CSS3    
 
 ---
 
