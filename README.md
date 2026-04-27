@@ -7,7 +7,7 @@ This project is a front-end clone of the Amazon homepage built using HTML and CS
    
 ## 🚀 Features
 - Responsive homepage layout
-- Navigation bar with logo and search
+- Navigation bar with logo and search   
 - Product sections with images
 - Hero banner
 - Footer section similar to Amazon
